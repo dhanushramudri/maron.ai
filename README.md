@@ -31,7 +31,9 @@ At Maron AI, we aim to revolutionize recruitment by making it faster, fairer, an
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/cloud/atlas" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB Atlas" width="100" height="40"/></a>
-  <a href="https://openai.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/OpenAI_Logo.svg/2048px-OpenAI_Logo.svg.png" alt="OpenAI API" width="40" height="40"/></a>
+<a href="https://openai.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/OpenAI_ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/>
+</a>
   <a href="https://www.digitalocean.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" alt="DigitalOcean" width="40" height="40"/></a>
 </p>
 
