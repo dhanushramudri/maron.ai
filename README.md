@@ -53,4 +53,6 @@ At Maron AI, we aim to revolutionize recruitment by making it faster, fairer, an
 
 **Note**: This repository is for demonstration purposes only; the main codebase is private.
 
-![Maron AI Logo](https://i.postimg.cc/L8nNrZsM/image.png)
+<a href="https://app.maron.ai/maron-business/" target="_blank">
+  <img src="https://i.postimg.cc/L8nNrZsM/image.png" alt="Maron AI" style="max-width: 100%; height: auto;"/>
+</a>
