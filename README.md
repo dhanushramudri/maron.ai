@@ -49,4 +49,4 @@ At Maron AI, we’re committed to transforming recruitment by making it faster, 
 
 **Note**: This repository is for demonstration purposes only; the main codebase is private.
 
-![Maron AI Logo](https://i.postimg.cc/BQ04dkb1/ff.png)
+![Maron AI Logo](https://i.postimg.cc/FNN818V/ff.png)
